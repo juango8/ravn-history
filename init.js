@@ -16,3 +16,5 @@ function randomPosition() {
     var randomY = Math.floor(Math.random() * y)
     return [randomX, randomY]
 }
+
+setTimeout(() => location.reload(), 100000) // timeout for reload
