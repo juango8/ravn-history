@@ -144,3 +144,9 @@ p {
   text-transform: uppercase;
   font-size: 3.5rem;
 }
+
+.spacer {
+  content: "";
+  height: 50px;
+  width: 100%;
+}
